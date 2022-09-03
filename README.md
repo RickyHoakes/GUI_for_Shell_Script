@@ -13,13 +13,19 @@ for implementing this shell interpreter
 # Various features of GUI shell interpreter.
 
 ->buttons are eazy than to type commands 
+
 ->comfartable access of files
+
 ->output will be displayed in popup box
+
 ->easier learning for beginners 
+
 ->errors are specfied in red and “success” is printed when the command in the input is running without errors.
 
 # Function of various buttons we used in our shell interpreter are run, calculate and list Directory.
 
 * RUN This button is used for running general subprocess scripts and other shell commands.
+
 * Calculate This button is used for evaluation for simple arithmetical operations.
+
 * List Directory This button is used for listing out any kind of directory and sub directories.
